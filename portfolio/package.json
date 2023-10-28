@@ -9,7 +9,7 @@
     "lint": "eslint . --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "@mdi/font": "7.2.96",
+    "@mdi/font": "7.3.67",
     "@vue/test-utils": "^2.4.1",
     "axios": "^1.5.0",
     "bootstrap": "^5.3.1",
